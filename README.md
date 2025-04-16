@@ -7,3 +7,5 @@ Description:
 This program removes the background from the image (it selects the most popular color)
 
 WARNING program needs pip install pillow
+Example: 
+![[Screenshot_input.png|400]]
