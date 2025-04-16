@@ -1,4 +1,4 @@
-1. Save image in ./input
+1. Save image (.png fomat) in ./input
 2. Run remove_bg_win.py
 3. Click "Remove background"
 4. See clear photo in folder ./output
