@@ -11,4 +11,4 @@ Example:
 before:
 ![inpimage](./input/Screenshot_input.png)
 after:
-![inpimage](./input/Screenshot_output.png)
+![inpimage](./output/Screenshot_output.png)
