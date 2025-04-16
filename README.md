@@ -8,4 +8,7 @@ This program removes the background from the image (it selects the most popular 
 
 WARNING program needs pip install pillow
 Example: 
+before:
 ![inpimage](./input/Screenshot_input.png)
+after:
+![inpimage](./input/Screenshot_output.png)
